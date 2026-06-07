@@ -1,14 +1,23 @@
 # Sistema de advertencias en BDFD
-Antes de empezar...:
-Este código esta inspirado en este repositorio.
-No voy a mentir, vibecodeé un poco para añadir el `/unwarn`, añadir el mensaje de 0 advertencias y arreglar unos errores, porque soy medio tonto en esto.
+> [!IMPORTANT]
+> Antes de empezar...
+> Este código esta inspirado en [este repositorio.](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide/tree/main)<br>
+> No voy a mentir, vibecodeé un poco para añadir el `/unwarn`, añadir el mensaje de 0 advertencias y arreglar unos errores, porque soy medio tonto en esto.<br>
+
+
+> [!IMPORTANT]
+> Adicionalmente, te invito a unirte a mi [servidor de Discord.](https://discord.com/invite/hUfmRRTXT4) No tiene relación con la programación, pero es donde nació este sistema :P
+</div>
+
+----
+### Índice
 
 - [/warn](#warn)
-  - [Variables de /warn](#warn-variables)
-  - [Código de /warn](#warn-codigo)
+  - [Variables de /warn](#variables-de-warn)
+  - [Código de /warn](#c%C3%B3digo-de-warn)
 - [/checkwarns](#checkwarns)
-  - [Variables de /checkwarns](#checkwarns-variables)
-  - [Código de /checkwarns](#checkwarns-codigo)
+  - [Variables de /checkwarns](#variables-de-checkwarns)
+  - [Código de /checkwarns](#c%C3%B3digo-de-checkwarns)
 - [/unwarn](#unwarn)
 - [Resultado](#resultado)
 
@@ -204,7 +213,8 @@ $thumbnail[https://em-content.zobj.net/source/google/439/open-file-folder_1f4c2.
 $footer[Usa /checkwarns para revisar el número de advertencias aplicadas.]
 $endif
 ```
-# Resultados
-![image](cerowarns)<br>
-![image](warns)<br>
-![image](quitawarns)
+# Resultado
+![image](cerowarns.jpg)<br>
+![image](warns.jpg)<br>
+![image](quitawarns.jpg)
+
